@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Abdulhadi5692HDI2
-- Basically i thought its a good idea to make a ALT account
-- :)
-- Check out my first profile @Abdulhadi5692HDI
+I do low-level and high level programming for fun. (and also to learn.)
+
+Im currently working on a OS (Operating System mainly kernel)
